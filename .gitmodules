@@ -1,7 +1,12 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/monahton/monahton.r-universe.dev
 	branch = HEAD
 [submodule "GencoDymo2"]
 	path = GencoDymo2
-	url = https://github.com/monahton/gencodymo2
+	url = https://github.com/monahton/GencoDymo2
+	branch = main
+[submodule "NatChat"]
+	path = NatChat
+	url = https://github.com/monahton/NatChat
+	branch = main

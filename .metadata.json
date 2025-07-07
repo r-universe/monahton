@@ -1,0 +1,24 @@
+[
+  {
+    "package": "GencoDymo2",
+    "metadata": {
+      "review": {
+        "status": "reviewed",
+        "version": "1.0.1",
+        "organization": "monahton",
+        "url": "https://monahton.github.io/GencoDymo2/"
+      }
+    }
+  },
+  {
+    "package": "NatChat",
+    "metadata": {
+      "review": {
+        "status": "reviewed",
+        "version": "1.1.0",
+        "organization": "monahton",
+        "url": "https://monahton.github.io/NatChat/"
+      }
+    }
+  }
+]
